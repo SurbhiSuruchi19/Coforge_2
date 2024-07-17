@@ -1,3 +1,7 @@
 I AM MASTER
 
+<<<<<<< HEAD
 i am new change
+=======
+i am branch
+>>>>>>> rajat
